@@ -1,14 +1,3 @@
-/*
-Program 3: This project is inspired by the New York Times Spelling Bee game. The user enters a word or the computer chooses
-a word through a random mode but the word will have unique letters and then they also enter a required letter. 
-These unique letters will be added to a hive and the user will enter words only made up of the letters in the hive,
-and it also MUST contain the required letter. This version has a twist where the computer also solves the game
-by coming up with a list of words, if they are pangrams or perfect pangrams the users score will go up, and a their score
-along with many other factors such as if its bingo, the amount of valid words, amount of pangrams and more will be displayed.
-Course: CS 211, Fall 2025, UIC
-Author: Manasvi Sharma
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
